@@ -7,7 +7,7 @@ from gtts import gTTS
 import pygame
 import unicodedata
 
-# Suppress TensorFlow informational logs
+# Suppress TensorFlow informational logs    qwwqeqe
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # Initialize video capture with the first camera
